@@ -1,0 +1,552 @@
+{
+  "parent_group_code": "628",
+  "parent_group_name": "Колбаса и сосиски",
+  "products": [
+    {
+      "id": 31003,
+      "name": "Мясная Ферма КАРБОНАД ЮБИЛ. из свинины к/в в/с в/у 150 г_Х5/СТМ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4024713.jpg",
+      "plu": 4024713,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 84.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17815,
+      "name": "Продукт из мяса свинины кат. Б, грудинка сырокопченая охл.,  150 гр. нарезка",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4009229.jpg",
+      "plu": 4009229,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17827,
+      "name": "СТАРОДВОРЬЕ Мясной продукт. Колбасное изделие вареное. Колбаса \"Молочная Дугушка\" 0,4 кг.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4038405.jpg",
+      "plu": 4038405,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 179.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17761,
+      "name": "Бекон сырокопченый, Велком, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3655098.jpg",
+      "plu": 3655098,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 169.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30735,
+      "name": "Колбаса Столичная, сырокпченая, Егорьевский МК, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3380221.jpg",
+      "plu": 3380221,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 159.0,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30736,
+      "name": "Колбаса Брауншвейгская, сырокопченая, Егорьевский МК, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3380222.jpg",
+      "plu": 3380222,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 140.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30857,
+      "name": "Сосиски Филейные, Останкино, 495 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3607043.jpg",
+      "plu": 3607043,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 155.0,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17743,
+      "name": "Колбаса Мясная, вареная, Папа может, Останкино, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3484605.jpg",
+      "plu": 3484605,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 147.0,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30786,
+      "name": "Бекон Дымов, Венгерский, сырокопченый, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3445554.jpg",
+      "plu": 3445554,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 199.0,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30802,
+      "name": "СТАРОДВ.КОЛБ.Колб.ВЯЗАНКА со шпик.500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3467150.jpg",
+      "plu": 3467150,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 161.99,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17766,
+      "name": "МДБ Ветчина д/завтр.фибр в/у кусок 330г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3670825.jpg",
+      "plu": 3670825,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 239.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17831,
+      "name": "Изделие колбасное варёное мясосодержащее. Сосиски «Венские». 450г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4045572.jpg",
+      "plu": 4045572,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 239.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30919,
+      "name": "Колбаса Фермерская, Черкизовский МК, 400 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3674872.jpg",
+      "plu": 3674872,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 179.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17742,
+      "name": "ВЕЛИКОЛУК.МК Окорок ТАМБОВСКИЙ к/в 300г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3476489.jpg",
+      "plu": 3476489,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 224.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30940,
+      "name": "Шпикачки для завтрака, Мясницкий Ряд, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3685490.jpg",
+      "plu": 3685490,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 259.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31015,
+      "name": "Продукт мясной. Колбаса варено-копченая кат. А \"Сервелат\" 0,3 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4039999.jpg",
+      "plu": 4039999,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 189.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17734,
+      "name": "Сервелат Финский, варено-копченый, Рублевский, 350 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3442569.jpg",
+      "plu": 3442569,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 349.0,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30718,
+      "name": "Колбаса Докторская, вареная, Мясной дом бородина, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3347584.jpg",
+      "plu": 3347584,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 259.0,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30728,
+      "name": "Ветчина из окорока, Велком, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3365796.jpg",
+      "plu": 3365796,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 349.99,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30878,
+      "name": "РУБЛЕВ.Колб.КРАКОВСКАЯ п/к кат.Б 350г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3631119.jpg",
+      "plu": 3631119,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17723,
+      "name": "Сервелат Дымов, Ореховый, варено-копченый, 330 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3385833.jpg",
+      "plu": 3385833,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 348.99,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17755,
+      "name": "Колбаса Докторская, вареная, МДБ, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3620675.jpg",
+      "plu": 3620675,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 319.99,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17772,
+      "name": "Мясное колбасное изделие полукопченное. Колбаса кат Б \"Краковская\" 430г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3683719.jpg",
+      "plu": 3683719,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 359.99,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17706,
+      "name": "ПАВЛОВСКАЯ КУРОЧКА Голень ЦБ к/в 1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3077305.jpg",
+      "plu": 3077305,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 326.99,
+        "price_promo__min": 299.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30986,
+      "name": "Продукт мясной копчено-вареный из свинины охлажденный. Коптильный двор, Грудинка \"Столичная\", 1 кг.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3999873.jpg",
+      "plu": 3999873,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 449.99,
+        "price_promo__min": 389.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30922,
+      "name": "ЧЕРКИЗ.Прод.мяс.КОРЕЙКА ФЕРМЕР.в/к 1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3677038.jpg",
+      "plu": 3677038,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 598.99,
+        "price_promo__min": 499.99
+      },
+      "store_name": null
+    }
+  ]
+}

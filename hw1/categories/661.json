@@ -1,0 +1,888 @@
+{
+  "parent_group_code": "661",
+  "parent_group_name": "Красота и уход",
+  "products": [
+    {
+      "id": 33624,
+      "name": "Крем-мыло Dove, кокосовое молочко и лепестки жасмина, 135 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3415591.jpg",
+      "plu": 3415591,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 55.5
+      },
+      "store_name": null
+    },
+    {
+      "id": 30889,
+      "name": "Зубная паста Blend A Med, бережная мята, 100 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3642796.jpg",
+      "plu": 3642796,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 113.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30908,
+      "name": "Салфетки влажные Tolli Plus, 80 шт., 1 уп.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3664696.jpg",
+      "plu": 3664696,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30996,
+      "name": "BLEND-A-MED Зубная паста 3DW Отбеливание и глубокая чистка Древесным углем 100мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4009101.jpg",
+      "plu": 4009101,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 117.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 930,
+      "name": "REXONA А/пер ПРОЗРАЧ.КРИСТАЛЛ аэр.150мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3479534.jpg",
+      "plu": 3479534,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 129.0,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 931,
+      "name": "REXONA А/пер ЯРКИЙ БУКЕТ аэр.150мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3479535.jpg",
+      "plu": 3479535,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 129.0,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 952,
+      "name": "SCHAUMA Шампунь 400мл Энергия Природы Драгоценный Медовый Эликсир",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3624617.jpg",
+      "plu": 3624617,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 142.0,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 953,
+      "name": "SCHAUMA Шампунь 400 мл Энергия Природы Свежая Крапива и Зеленое яблоко",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3624618.jpg",
+      "plu": 3624618,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 135.89,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1048,
+      "name": "REXONA Антиперспирант аэрозоль НЕЖНО И СОЧНО 150 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3928499.jpg",
+      "plu": 3928499,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 158.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1061,
+      "name": "REXONA АНТИПЕРСПИРАНТ АЭРОЗОЛЬ ЯРКО И ЦВЕТОЧНО 150МЛ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3955496.jpg",
+      "plu": 3955496,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 158.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1069,
+      "name": "CLOSEUP ОПОЛАСКИВАТЕЛЬ для полости рта ЖАРКАЯ МЯТА 250МЛ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3967357.jpg",
+      "plu": 3967357,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 124.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1070,
+      "name": "CLOSEUP ЗУБНАЯ ПАСТА ВЗРЫВНОЙ МЕНТОЛ 100МЛ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3967359.jpg",
+      "plu": 3967359,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 157.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1071,
+      "name": "CLOSEUP ЗУБНАЯ ПАСТА ЖАРКАЯ МЯТА 100МЛ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3967361.jpg",
+      "plu": 3967361,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 157.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30726,
+      "name": "KOTEX Прокладки Ультра Драй нормал 20шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3364389.jpg",
+      "plu": 3364389,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 161.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30727,
+      "name": "Прокладки Kotex , ультра драй, 16 шт.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3364392.jpg",
+      "plu": 3364392,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 161.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33628,
+      "name": "З/щ SPLAT Special BLACKWOOD",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900522.jpg",
+      "plu": 3900522,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 209.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33622,
+      "name": "SPLAT З/паста SPEC.BLACKWOOD отб.75мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3230372.jpg",
+      "plu": 3230372,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 209.0,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33627,
+      "name": "SPLAT З/паста SPECIAL ЧЕРНЫЙ ЛОТОС 75мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3691935.jpg",
+      "plu": 3691935,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 219.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32468,
+      "name": "Туалетная бумага Familia Plus, белая, 2 слоя, 12 рулонов",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3450513.jpg",
+      "plu": 3450513,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 149.0,
+        "price_promo__min": 119.9
+      },
+      "store_name": null
+    },
+    {
+      "id": 933,
+      "name": "LIBRESSE Прокладки УЛЬТРА СУПЕР гиг.16шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3488297.jpg",
+      "plu": 3488297,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 169.0,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 857,
+      "name": "SPLAT З/щетка PROF.WHITEN.иннов.hard",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3329901.jpg",
+      "plu": 3329901,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 159.0,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 871,
+      "name": "O.B.Тампоны Procomfort супер плюс 16шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3367588.jpg",
+      "plu": 3367588,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 159.0,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30930,
+      "name": "TRESEM.Шамп.REPAIR AND PROT.восст.400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3679350.jpg",
+      "plu": 3679350,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30932,
+      "name": "TRESEM.Конд.REPAIR AND PROT.восст.400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3679357.jpg",
+      "plu": 3679357,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1009,
+      "name": "PAP.Бумага WHITE DE LUXE туалет.8рул",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3679801.jpg",
+      "plu": 3679801,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 239.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1064,
+      "name": "AXE Дезодорант-карандаш АНАРХИЯ ДЛЯ МУЖЧИН 50МЛ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3959469.jpg",
+      "plu": 3959469,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 219.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1137,
+      "name": "Le Petit Marseillais® Sensitive мицеллярный гель для душа с соком Алоэ Вера и Цветком Апельсинового Дерева, 400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4054536.jpg",
+      "plu": 4054536,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 274.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 831,
+      "name": "Шам.Clear Vita abe вып.вол400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3013914.jpg",
+      "plu": 3013914,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 173.0,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 901,
+      "name": "CLEAR Шам.бал-опол.UL.CONT.2в1муж400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3420658.jpg",
+      "plu": 3420658,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 249.09,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1063,
+      "name": "ШАМПУНЬ - ДЕТОКС CLEAR ПРОТИВ ПЕРХОТИ ЕЖЕДНЕВНЫЙ 400МЛ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3958227.jpg",
+      "plu": 3958227,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30739,
+      "name": "Шампунь Syoss, эффект ламинирования, 500 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3386405.jpg",
+      "plu": 3386405,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 178.05,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31048,
+      "name": "Syoss Бальзам Volume 450 мл для тонк вол, лиш объема (с экстр фиоле риса)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4089147.jpg",
+      "plu": 4089147,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 279.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31052,
+      "name": "Syoss Шамп Volume 450 мл для тонк вол, лиш объема (с экстр фиоле риса)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4092264.jpg",
+      "plu": 4092264,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 898,
+      "name": "Мицеллярная вода Garnier, для лица, 400 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3418507.jpg",
+      "plu": 3418507,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 209.0,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1098,
+      "name": "Garnier Мицеллярное молочко для лица, глаз и губ \"Нежное очищение\" серии Skin Naturals 400 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4017603.jpg",
+      "plu": 4017603,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 273.99,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33620,
+      "name": "GOT2B Лак СТАЛ.ХВ.мет/аэр 300мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2048198.jpg",
+      "plu": 2048198,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 223.0,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33621,
+      "name": "GOT2B Лак МЕГАМАН.мет/аэр 300мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2048199.jpg",
+      "plu": 2048199,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 399.99,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1088,
+      "name": "HERBAL ESSENCES Шампунь Марокканское аргановое масло 400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4004174.jpg",
+      "plu": 4004174,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 284.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1090,
+      "name": "HERBAL ESSENCES Шампунь Белый грейпфрут и мята 400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4004176.jpg",
+      "plu": 4004176,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 284.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30949,
+      "name": "Туалетная Бумага Zewa Just 1, 4-х сл. 8 рул.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900558.jpg",
+      "plu": 3900558,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 329.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 918,
+      "name": "Гель для душа Nivea, увлажнение и забота, 750 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3454322.jpg",
+      "plu": 3454322,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 279.0,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1026,
+      "name": "Шампунь-бальзам Head&Sholders, 2в1, основной уход, 900 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689257.jpg",
+      "plu": 3689257,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 599.99,
+        "price_promo__min": 439.99
+      },
+      "store_name": null
+    }
+  ]
+}

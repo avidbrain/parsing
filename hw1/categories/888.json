@@ -1,0 +1,132 @@
+{
+  "parent_group_code": "888",
+  "parent_group_name": "Хлеб и выпечка",
+  "products": [
+    {
+      "id": 31009,
+      "name": "Изделие хлебобулочное сдобное: Плюшка Московская сахарная 150 гр Коломенское",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4036451.jpg",
+      "plu": 4036451,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 33.99,
+        "price_promo__min": 27.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30820,
+      "name": "Хлеб Ржано-пшеничный, Даниловский, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3480920.jpg",
+      "plu": 3480920,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 38.49,
+        "price_promo__min": 35.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29039,
+      "name": "Хлеб Даниловский, Коломенское, 275 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3500217.jpg",
+      "plu": 3500217,
+      "promo": {
+        "id": 1147596381,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29045,
+      "name": "Хлебцы Dr.Korner, хрустящие, кукурузно-рисовые, с прованскими травами, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3445942.jpg",
+      "plu": 3445942,
+      "promo": {
+        "id": 1147596387,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 91.49,
+        "price_promo__min": 72.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29044,
+      "name": "Хлебцы Croisette тонкие ржано-пшеничные с прованскими травами 200гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4054468.jpg",
+      "plu": 4054468,
+      "promo": {
+        "id": 1147596386,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 134.99,
+        "price_promo__min": 87.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29049,
+      "name": "Сухарики Finn Crisp Multigrain, Многозерновые, 175 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/17792.jpg",
+      "plu": 17792,
+      "promo": {
+        "id": 1147596392,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "parent_group_code": "602",
+  "parent_group_name": "Заморозка",
+  "products": [
+    {
+      "id": 866,
+      "name": "ФРУТОНЯНЯ Пюре ОВОЩ.САЛАТИК д/дет.пит80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3353131.jpg",
+      "plu": 3353131,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 31.95,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 868,
+      "name": "ФРУТО-НЯНЯ Пюре из кабачков и картоф.80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3354779.jpg",
+      "plu": 3354779,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 31.95,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 869,
+      "name": "ФРУТО-НЯНЯ Пюре из капусты брокколи 80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3354780.jpg",
+      "plu": 3354780,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 31.95,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 955,
+      "name": "ФрутоНяня 80г. Пюре из капусты брокколи, кабачков и цветной капусты \"мой первый салатик\"",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3625195.jpg",
+      "plu": 3625195,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 34.9,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1040,
+      "name": "Фруто Няня прод.дет.пит.для дет.ранн.возр.,прод.прикорм.-Пюре овощ.со слив.\"Овощной крем-суп из кап.брокк., цвет.кап. и морк\"200мл.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900018.jpg",
+      "plu": 3900018,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 45.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1041,
+      "name": "Фруто Няня прод.дет.пит.для дет.ранн.возр.,прод.прик.-пюре овощ.со слов.\"овощной крем-суп из тыквы, картофеля и моркови\" 200 мл.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900019.jpg",
+      "plu": 3900019,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 45.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31026,
+      "name": "САРАФАНОВО. Десерт взбитый замороженный манговый «Сорбет Манго», 60 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4051900.jpg",
+      "plu": 4051900,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17695,
+      "name": "Пельм.ЛОЖКАРЕВ из отб.говяд450г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2024541.jpg",
+      "plu": 2024541,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 109.9,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17834,
+      "name": "MILKA БЗМЖ Мороженое эскимо сливочное ванильное с шоколадным соусом, покрытое молочным шоколадом MILKA МДЖ 8%, 62 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4047712.jpg",
+      "plu": 4047712,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17739,
+      "name": "С ПЫЛУ С ЖАРУ Котлеты из курочки 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3464190.jpg",
+      "plu": 3464190,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 84.95,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30978,
+      "name": "САРАФАНОВО мороженое пломбир ванильный брикет во флоупаке 15%, 220 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3955155.jpg",
+      "plu": 3955155,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 107.99,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17756,
+      "name": "Жюльен из курицы с грибами, Российская Корона, 250 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3621247.jpg",
+      "plu": 3621247,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 138.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17837,
+      "name": "Полуфабрикаты из мяса птицы рубленые формованные в панировке замороженные: наггетсы с индейкой \"Вязанка\" МГ 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4057693.jpg",
+      "plu": 4057693,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 139.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30928,
+      "name": "Блинчики С пылу с Жару, ореховая паста, 360 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3679123.jpg",
+      "plu": 3679123,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31046,
+      "name": "Азиатская смесь с соусом Global Village 400гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072222.jpg",
+      "plu": 4072222,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17781,
+      "name": "ЦЕЗАРЬ Вареники с карт/жар.луч.600г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3697765.jpg",
+      "plu": 3697765,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31045,
+      "name": "Карибская смесь с соусом Global Village 400гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072221.jpg",
+      "plu": 4072221,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 169.99,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17733,
+      "name": "МИРАТОРГ Кордон блю с сыром/ветчин.405г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3434303.jpg",
+      "plu": 3434303,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 199.0,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17752,
+      "name": "Цезарь Пицца с ветчиной и грибами, 420г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3607265.jpg",
+      "plu": 3607265,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 224.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30947,
+      "name": "Пельмени Сибирская коллекция, Фирменные, 700 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3693418.jpg",
+      "plu": 3693418,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 368.99,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30906,
+      "name": "СИБИР.КОЛЛЕК.Блинчики с мясом 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3662908.jpg",
+      "plu": 3662908,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 278.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17799,
+      "name": "Мясной полуфабрикат в тесте замороженный. Пельмени \"Телячьи\", \"Sибирская коллекция\", категория Б, 700 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3985043.jpg",
+      "plu": 3985043,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 459.99,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30884,
+      "name": "Креветки Fish House, королевские, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636987.jpg",
+      "plu": 3636987,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30916,
+      "name": "ЦЕЗАРЬ Пельмени ДОМАШНИЕ 800г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3672557.jpg",
+      "plu": 3672557,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 453.99,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32476,
+      "name": "POLAR Форель стейки зам. в/у 500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3907658.jpg",
+      "plu": 3907658,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 539.99,
+        "price_promo__min": 399.99
+      },
+      "store_name": null
+    }
+  ]
+}

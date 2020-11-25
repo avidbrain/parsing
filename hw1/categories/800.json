@@ -1,0 +1,195 @@
+{
+  "parent_group_code": "800",
+  "parent_group_name": "Рыба и морепродукты",
+  "products": [
+    {
+      "id": 32482,
+      "name": "Пресервы. Филе сельди атлантической слабосоленое \"Русское море\" \"традиционный посол\" в масле 230 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4043492.jpg",
+      "plu": 4043492,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 84.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32471,
+      "name": "САН.БР.Филе сельди МАТ.ХХL дел.ж/б 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3497722.jpg",
+      "plu": 3497722,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 139.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17727,
+      "name": "МЕРИДИАН Риет ЭКО и/лосося с миндал.100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3409564.jpg",
+      "plu": 3409564,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 124.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32472,
+      "name": "Сельдь Тесей Царская, в масле, 400 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3603143.jpg",
+      "plu": 3603143,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 119.0,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32473,
+      "name": "Сельдь Тесей Царская, с укропом, 400 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3603144.jpg",
+      "plu": 3603144,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 119.0,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32479,
+      "name": "Икорное рыбное изделие. Икра деликатесная с копченым лососем ст. бан. 270 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983178.jpg",
+      "plu": 3983178,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 209.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32480,
+      "name": "Соленая пищ. рыбная продукция.Форель радужная с/с филе-кусок \"Артезианская\" Санта Бремор 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4006166.jpg",
+      "plu": 4006166,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17790,
+      "name": "БАЛТИЙСКИЙ БЕРЕГ форель кусок с/с 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3923407.jpg",
+      "plu": 3923407,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 289.99,
+        "price_promo__min": 259.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32464,
+      "name": "СВК Икра ТУНГУТУН лос.с/б  230г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2046731.jpg",
+      "plu": 2046731,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 1299.99,
+        "price_promo__min": 799.99
+      },
+      "store_name": null
+    }
+  ]
+}

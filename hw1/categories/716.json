@@ -1,0 +1,258 @@
+{
+  "parent_group_code": "716",
+  "parent_group_name": "Мясо и птица",
+  "products": [
+    {
+      "id": 33365,
+      "name": "Котлеты Ближние горки, домашние, охлажденные, 400 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3651750.jpg",
+      "plu": 3651750,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33366,
+      "name": "Котлеты сливочные, Петелинка, куриные, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3664055.jpg",
+      "plu": 3664055,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33363,
+      "name": "Фарш говяжий, Мираторг, 400 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3447375.jpg",
+      "plu": 3447375,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 159.0,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33367,
+      "name": "Лопатка свиная, Слово Мясника, 800 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3666473.jpg",
+      "plu": 3666473,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 215.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33372,
+      "name": "ПЕРВАЯ СВЕЖЕСТЬ Филе большое грудки цыпленка-бройлера охл. 750г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3963723.jpg",
+      "plu": 3963723,
+      "promo": {
+        "id": 1150770068,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 206.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33364,
+      "name": "ПАВА ПАВА Филе голени индейки охл.600г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3626093.jpg",
+      "plu": 3626093,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 209.99,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33368,
+      "name": "Мираторг Стейк Пеппер из мраморной говядины,полуфабрикат мясной мелкокусковой бескостный, категории А, охлажденный 0,26 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3991972.jpg",
+      "plu": 3991972,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33371,
+      "name": "ПЕР.СВ.Филе с груд.охл.подл.1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2160069.jpg",
+      "plu": 2160069,
+      "promo": {
+        "id": 1150770067,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 2,
+      "name": "СЛ.МЯСНИКА Корейка свин.кат.А охл.800г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3666497.jpg",
+      "plu": 3666497,
+      "promo": {
+        "id": 1142088388,
+        "date_begin": "2020-11-16",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 249.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33369,
+      "name": "Филе бедра без кожи ЦБ 1кг охл.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4007208.jpg",
+      "plu": 4007208,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 292.99,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33370,
+      "name": "П/ф из мяса индейки крупнокусковые бескостные натуральные Вырезка из индейки, охл, ВУ ТФ, 800 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4013612.jpg",
+      "plu": 4013612,
+      "promo": {
+        "id": 1150770066,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 312.99,
+        "price_promo__min": 259.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17846,
+      "name": "М.РЯД Буженина запеч.в/у 1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/78001511.jpg",
+      "plu": 78001511,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 999.99,
+        "price_promo__min": 539.99
+      },
+      "store_name": null
+    }
+  ]
+}

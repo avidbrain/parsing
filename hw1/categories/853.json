@@ -1,0 +1,3597 @@
+{
+  "parent_group_code": "853",
+  "parent_group_name": "Сладости",
+  "products": [
+    {
+      "id": 8797,
+      "name": "Конфеты вафельные с начинкой типа пралине глазированные шоколадом, 35г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4001937.jpg",
+      "plu": 4001937,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 16.99,
+        "price_promo__min": 13.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15077,
+      "name": "Печенье сахарное \"Традиционное\" 120 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3973181.jpg",
+      "plu": 3973181,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 15.99,
+        "price_promo__min": 13.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8544,
+      "name": "ЧУПА ЧУПС Карамель XXL TRIO 29г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/59117.jpg",
+      "plu": 59117,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 17.25,
+        "price_promo__min": 14.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8714,
+      "name": "Батончик глазированный нуга с мягкой карамелью шоколадный аромат 40 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3648578.jpg",
+      "plu": 3648578,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 17.0,
+        "price_promo__min": 14.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8690,
+      "name": "Нуга с арахисом, Шарлиз, 55 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3608985.jpg",
+      "plu": 3608985,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 19.0,
+        "price_promo__min": 15.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15107,
+      "name": "Изделия кондитерские мучные. Пирожные: БАТОНЧИК ГЛАЗИРОВАННЫЙ \"KIDDAY\"ассорти 40 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4043596.jpg",
+      "plu": 4043596,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 24.9,
+        "price_promo__min": 15.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27612,
+      "name": "Жевательная резинка \"Ментос\"со вкусом мяты 15,5 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3936416.jpg",
+      "plu": 3936416,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 17.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27613,
+      "name": "Жевательная резинка \"Ментос\"со вкусом тутти-фрутти 15,5 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3936417.jpg",
+      "plu": 3936417,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 17.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8575,
+      "name": "Шоколад.батончик 50г пом.-сл/мо",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3075616.jpg",
+      "plu": 3075616,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 29.0,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8673,
+      "name": "HALLS Карам.лед.мед/лимон 25г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3498891.jpg",
+      "plu": 3498891,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 27.95,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8674,
+      "name": "HALLS Карам.COLORS АССОРТИ лед.25г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3498892.jpg",
+      "plu": 3498892,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 27.95,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8675,
+      "name": "HALLS Карам.ОРИГ.лед.мент/эв25г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3498894.jpg",
+      "plu": 3498894,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 27.95,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8676,
+      "name": "HALLS Карам.МЕНТ.ЭКСТ.лед.мент/эвк.24,5г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3498896.jpg",
+      "plu": 3498896,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 28.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8709,
+      "name": "Карамель леденцовая Lenco \"Трость\" со вкусом клубники к Новому году 28гр 65шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3644757.jpg",
+      "plu": 3644757,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 25.49,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8795,
+      "name": "Nesquik. Белый. Конфета с какао-нугой, покрытая белым шоколадом 39г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3993364.jpg",
+      "plu": 3993364,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15015,
+      "name": "CHIPICAO Круассаны мини кр.какао вкл.50г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3489008.jpg",
+      "plu": 3489008,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 26.95,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15016,
+      "name": "CHIPICAO Круассаны кр.какао вкл.60г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3489010.jpg",
+      "plu": 3489010,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 28.95,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15069,
+      "name": "Крекер \"С кунжутом и семенами льна\", 180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3950922.jpg",
+      "plu": 3950922,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 26.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30695,
+      "name": "АЛАДУШКИН Вафли с суфле клуб.со слив122г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3257371.jpg",
+      "plu": 3257371,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 28.95,
+        "price_promo__min": 26.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30754,
+      "name": "АЛАДУШКИН Вафли с суфле и черникой 122г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3418863.jpg",
+      "plu": 3418863,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 39.0,
+        "price_promo__min": 26.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30788,
+      "name": "KIT KAT Шоколад мол.с хруст.вафлей 87г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3445990.jpg",
+      "plu": 3445990,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 29.9
+      },
+      "store_name": null
+    },
+    {
+      "id": 8787,
+      "name": "Шоколад молочный «Милка» с начинкой со вкусом ванили и кусочками печенья «Орео» 37г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3981472.jpg",
+      "plu": 3981472,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 34.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8829,
+      "name": "Ирис «МЕЛЛЕР» со вкусом солёной карамели, 38г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066665.jpg",
+      "plu": 4066665,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15085,
+      "name": "Милка вафли с начинкой с какао, покрытые молочным шоколадом 30 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983254.jpg",
+      "plu": 3983254,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 34.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27632,
+      "name": "Микс карамель с начинкой «шипучка» со вкусами: тархуна, байкала, дюшеса, вишни фас.120 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4074614.jpg",
+      "plu": 4074614,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8659,
+      "name": "Карамель ЛЕДЕНЦЫ МИНИ 180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3467876.jpg",
+      "plu": 3467876,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 39.0,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15076,
+      "name": "Печенье сахарное \"Традиционное\" 290 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3973180.jpg",
+      "plu": 3973180,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30950,
+      "name": "Вафли с жировой начинкой со вкусом топленого молока, Зерница, 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3908663.jpg",
+      "plu": 3908663,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 33.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30951,
+      "name": "Вафли с жировой начинкой со вкусом шоколада, Зерница, 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3908665.jpg",
+      "plu": 3908665,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 33.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30963,
+      "name": "Вафли \"С ароматом лесного ореха\" 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3939083.jpg",
+      "plu": 3939083,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 33.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30970,
+      "name": "Вафли \"С ароматом лимона\" 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3948437.jpg",
+      "plu": 3948437,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 33.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8794,
+      "name": "NUTS. Белый. Конфета, покрытая белым шоколадом 60г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3993363.jpg",
+      "plu": 3993363,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15018,
+      "name": "Крекер Tuc, пицца, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3490862.jpg",
+      "plu": 3490862,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 47.95,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15041,
+      "name": "Вафли Коровка, шоколадная начинка, 150 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3673372.jpg",
+      "plu": 3673372,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15101,
+      "name": "Крекер \"TUC\" со вкусом \"Краб\" 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4024592.jpg",
+      "plu": 4024592,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 59.98,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27425,
+      "name": "Печенье сдобное «Лорентини Вишневый пай» («Lorentini Вишневый пай») 120г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636287.jpg",
+      "plu": 3636287,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 42.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27426,
+      "name": "Печенье сдобное «Лорентини Баварский крем» («Lorentini Баварский крем») 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636288.jpg",
+      "plu": 3636288,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27615,
+      "name": "Шоколад молочный \"Альпен Гольд\" с сушеным инжиром, кокосовой стружкой и соленым крекером, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4021002.jpg",
+      "plu": 4021002,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27618,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053597.jpg",
+      "plu": 4053597,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27619,
+      "name": "Шоколад темный Alpen Gold Альпен Гольд с дробленым фундуком, 80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053663.jpg",
+      "plu": 4053663,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27620,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с фундуком и изюмом, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053732.jpg",
+      "plu": 4053732,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27621,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с фундуком, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053758.jpg",
+      "plu": 4053758,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27622,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с арахисом и кукурузными хлопьями, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053760.jpg",
+      "plu": 4053760,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27623,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с чернично-йогуртовой начинкой, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053798.jpg",
+      "plu": 4053798,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27624,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с солёным арахисом и крекером, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053799.jpg",
+      "plu": 4053799,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27625,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с соленым миндалем и карамелью, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053800.jpg",
+      "plu": 4053800,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27626,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с начинкой со вкусом капучино, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053801.jpg",
+      "plu": 4053801,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27627,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд с клубнично-йогуртовой начинкой, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053804.jpg",
+      "plu": 4053804,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27628,
+      "name": "Шоколад темный Alpen Gold Альпен Гольд Пикантная Вишня с вишневыми кусочками со вкусом перца чили, 80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053805.jpg",
+      "plu": 4053805,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27629,
+      "name": "Шоколад белый Alpen Gold Альпен Гольд с миндалем и кокосовой стружкой, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053806.jpg",
+      "plu": 4053806,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27630,
+      "name": "Шоколад горький Alpen Gold Альпен Гольд, 80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053995.jpg",
+      "plu": 4053995,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30999,
+      "name": "Конфеты неглазированные \"Бананоман\" 201 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4012029.jpg",
+      "plu": 4012029,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15055,
+      "name": "Мини круассаны Шарлиз с кремом \"какао\", 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900907.jpg",
+      "plu": 3900907,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 43.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15056,
+      "name": "Мини круассаны Шарлиз с кремом со вкусом \"ваниль\", 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900908.jpg",
+      "plu": 3900908,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 43.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15057,
+      "name": "Мини круассаны Шарлиз с кремом со вкусом \"вареная сгущенка\", 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900909.jpg",
+      "plu": 3900909,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 43.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15058,
+      "name": "Мини круассаны Шарлиз с начинкой \"клубника\", 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3900912.jpg",
+      "plu": 3900912,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 43.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15063,
+      "name": "Сладкие гостинцы Пряники сырцовые \"С ароматом Топленое молоко\" 0,270кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3922082.jpg",
+      "plu": 3922082,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15113,
+      "name": "Конфеты неглазированные MIXBAR \"Marshmallows\" 100 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4059074.jpg",
+      "plu": 4059074,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30753,
+      "name": "SKITTLES Драже ФРУКТЫ 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3413935.jpg",
+      "plu": 3413935,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 64.95,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8724,
+      "name": "Шоколад Ozera Bitter, 90 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3668752.jpg",
+      "plu": 3668752,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8749,
+      "name": "Шоколад O'Zera Dark & Orange 55% 90г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3906837.jpg",
+      "plu": 3906837,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8850,
+      "name": "Жевательные конфеты \"Mamba Кислая\" 70г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4082249.jpg",
+      "plu": 4082249,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15024,
+      "name": "Фрути-буззи, жев.марм. 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3627741.jpg",
+      "plu": 3627741,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 58.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27607,
+      "name": "ALP.GOLD Шок.ОРЕО мол.вк.ван/кус.печ.95г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3499535.jpg",
+      "plu": 3499535,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 59.0,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27608,
+      "name": "Шок. Мол. «Альпен Гольд Орео» с нач. со вкусом арах. пасты и кус. Печ. 95 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3626894.jpg",
+      "plu": 3626894,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 59.0,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27614,
+      "name": "Шок. мол. \"Альпен голд\" \"Классический чизкейк\" с нач. со вкусом чизкейка с добавлением сухого сыра и кусочками печенья \"Орео\" 95г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3957242.jpg",
+      "plu": 3957242,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15004,
+      "name": "КОЛОМЕНСКОЕ Вафли с халвой 220г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3432952.jpg",
+      "plu": 3432952,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 56.99,
+        "price_promo__min": 52.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15012,
+      "name": "Рахат-Лукум Тимоша, с орехом, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3480149.jpg",
+      "plu": 3480149,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 65.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27427,
+      "name": "Наслада Печенье сдобное \"Хворост песочный\" 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3642014.jpg",
+      "plu": 3642014,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30819,
+      "name": "Конфеты Trufello, со вкусом шоколада, 180 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3479755.jpg",
+      "plu": 3479755,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 64.9,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15014,
+      "name": "ЛЮБЯТОВО Печенье сдоб.со вк.лим/мята250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3486073.jpg",
+      "plu": 3486073,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 59.0,
+        "price_promo__min": 55.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15034,
+      "name": "Печенье Воздушное шоколадное Любятово 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3643999.jpg",
+      "plu": 3643999,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 55.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8689,
+      "name": "Конфеты молочные 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3607920.jpg",
+      "plu": 3607920,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15021,
+      "name": "ЛЮБЯТОВО Печ.овс.с черносл/льн.сем.200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3615356.jpg",
+      "plu": 3615356,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 69.0,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15028,
+      "name": "Жевательный Мармелад \"Чупа Чупс\" \"SOUR TUBES\" с фруктовым вкусом 150г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3635491.jpg",
+      "plu": 3635491,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15037,
+      "name": "КИ МОРОЗОВА Печ.ФОРМ.УСП.с кунж.сах.350г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3660318.jpg",
+      "plu": 3660318,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15078,
+      "name": "Пирожное бисквитное с молочной начинкой \"Медвежонок Барни\", 90 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3981707.jpg",
+      "plu": 3981707,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15079,
+      "name": "Пирожное бисквитное с шоколадной начинкой \"Медвежонок Барни\", 90 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3981711.jpg",
+      "plu": 3981711,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15088,
+      "name": "Печенье сдобное Хлебный Спас Имбирное с корицей и Тростниковым Сахаром, 240 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3991931.jpg",
+      "plu": 3991931,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15091,
+      "name": "Десерт Bonjour Konti вкус имбирный пряник, 232 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3996115.jpg",
+      "plu": 3996115,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15132,
+      "name": "Печенье имбирное «Снежное ассорти» то что вкусно 35 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4087724.jpg",
+      "plu": 4087724,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30955,
+      "name": "Печенье Каскад Злаковое клюква и изюм, 300г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3926561.jpg",
+      "plu": 3926561,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 74.98,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15009,
+      "name": "Трубочки, со сгущенным молоком, 400 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3469477.jpg",
+      "plu": 3469477,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 73.99,
+        "price_promo__min": 62.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15062,
+      "name": "Шарлиз Мармелад желейный глазированный, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3908962.jpg",
+      "plu": 3908962,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 68.99,
+        "price_promo__min": 62.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15035,
+      "name": "Печенье злаковое \"МЮСЛИ\" с клюквой и изюмом 1/120 кор",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3646780.jpg",
+      "plu": 3646780,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 66.99,
+        "price_promo__min": 63.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15112,
+      "name": "ТМ Шарлиз Конфеты неглазированные Marshmallows mini\" 150гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4059073.jpg",
+      "plu": 4059073,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 64.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27423,
+      "name": "BELVITA Печенье УТРЕН.фунд/мед.вит.225г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3632837.jpg",
+      "plu": 3632837,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.0,
+        "price_promo__min": 64.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27424,
+      "name": "BELVITA Печенье УТРЕН.злак.хлоп.вит.225г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3632838.jpg",
+      "plu": 3632838,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.0,
+        "price_promo__min": 64.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8666,
+      "name": "DOVE Шоколад молочный с цельн.фунд.90г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3478918.jpg",
+      "plu": 3478918,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.0,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8740,
+      "name": "DOVE Шок.ГРУША И ВАФЛЯ мол.90г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3687847.jpg",
+      "plu": 3687847,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8742,
+      "name": "MILKA Шок.мол.с бел.в виде елочек 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689776.jpg",
+      "plu": 3689776,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8785,
+      "name": "KITKAT SENSES GOLD EDITION. DELUXE CARAMEL AND WHITE CHOCOLATE. БЕЛ ШОК С ДОБ КАР, БЕЛЫЙ ШОК И МОЛ ШОКОЛАД С ХРУСТ ВАФЛЕЙ 112г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3978869.jpg",
+      "plu": 3978869,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 109.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15027,
+      "name": "ТИМОША чак-чак медовый 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3633540.jpg",
+      "plu": 3633540,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 94.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15072,
+      "name": "Изделия хлебобулочные сдобные: Сдобные палочки \"Снежка\" с малиновым джемом, 370 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3964790.jpg",
+      "plu": 3964790,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15073,
+      "name": "Изделия хлебобулочные сдобные: Сдобные палочки \"Снежка\" с абрикосовым джемом, 370 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3964791.jpg",
+      "plu": 3964791,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15042,
+      "name": "Мяфли Акульчев, 310 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3680624.jpg",
+      "plu": 3680624,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15047,
+      "name": "ШАРЛИЗ Маффины мини нач.ВАРЕН.СГУЩ.433г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3688436.jpg",
+      "plu": 3688436,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 75.99,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15048,
+      "name": "ШАРЛИЗ Маффины мини с нач.ШОК.ВКУС.433г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3688437.jpg",
+      "plu": 3688437,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 75.99,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15049,
+      "name": "ШАРЛИЗ Маффины м.ар.слив.нач.КЛ.ДЖ.433г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3688438.jpg",
+      "plu": 3688438,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 75.99,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15025,
+      "name": "BELVITA Печенье УТР.СЭНД.зл/йог.нач.253г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3632839.jpg",
+      "plu": 3632839,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 99.0,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15026,
+      "name": "BELVITA Печен.УТР.СЭНД.зл/как/йог.н.253г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3632899.jpg",
+      "plu": 3632899,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 99.0,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15043,
+      "name": "Печенье Орешек, Шарлиз, 340 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3685286.jpg",
+      "plu": 3685286,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8609,
+      "name": "ZENTIS Картошка МАРЦИПАНОВАЯ 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3365775.jpg",
+      "plu": 3365775,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8643,
+      "name": "RIT.SPORT Шок.КАР.МИН.мол.кар.др.мин100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3431029.jpg",
+      "plu": 3431029,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8783,
+      "name": "Шарлиз Драже Клюква в шоколадной глазури \"Шарлиз\" 170 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3975543.jpg",
+      "plu": 3975543,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 109.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15080,
+      "name": "Торт вафельный глазированный кондитерской глазурью с жировой начинкой \"Бабаевская Белочка\" с карамелизованными орехами, 250 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3982417.jpg",
+      "plu": 3982417,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 95.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8738,
+      "name": "TWIX Печ.TOP сдоб.мол.шок/кар/к.мас.126г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3687133.jpg",
+      "plu": 3687133,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8762,
+      "name": "Конфеты \"Главторг\" Сгущенка с кокосом в шоколадной глазури 140г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3941511.jpg",
+      "plu": 3941511,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8820,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд Максфан с фрукт.кусоч.со вкусом манго, ананаса, маракуйи, с шипучими рисовыми шар.150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053537.jpg",
+      "plu": 4053537,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8822,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд Максфан с мармеладом со вкусом колы, попкорном и взрывной карамелью, 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053802.jpg",
+      "plu": 4053802,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8823,
+      "name": "Шоколад молочный Alpen Gold Альпен Гольд Максфан со взрывной карамелью, мармеладом и печеньем, 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4053803.jpg",
+      "plu": 4053803,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15032,
+      "name": "Пирожное Zeffo,, 150 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3641158.jpg",
+      "plu": 3641158,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27432,
+      "name": "OREO GOLDEN печенье с начинкой с ванильным вкусом 154гх16",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983256.jpg",
+      "plu": 3983256,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 139.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27631,
+      "name": "Родные просторы®. Конфеты с вафельной крошкой 180 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4063866.jpg",
+      "plu": 4063866,
+      "promo": {
+        "id": 1143198374,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15044,
+      "name": "SW.PL+ Вафли VARNA Мини с клуб.аром.200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3687458.jpg",
+      "plu": 3687458,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15045,
+      "name": "SW.PLUS+ Вафли VARNA МИНИ с мол.кр.200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3687534.jpg",
+      "plu": 3687534,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15029,
+      "name": "Печенье, покрытое молочным шоколадом \"Милка\", 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3639098.jpg",
+      "plu": 3639098,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 125.0,
+        "price_promo__min": 114.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15030,
+      "name": "Печенье с кусочками молочного шоколада \"Милка\", 168 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3639099.jpg",
+      "plu": 3639099,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 125.0,
+        "price_promo__min": 114.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15031,
+      "name": "Пирожное Milka, 175 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3639110.jpg",
+      "plu": 3639110,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 125.0,
+        "price_promo__min": 114.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15060,
+      "name": "Печенье «Milka Sensations» с начинкой и кусочками молочного шоколада. 156 г x 12 КР",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3906739.jpg",
+      "plu": 3906739,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 114.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29042,
+      "name": "Пирожное Мирэль, профитролли, 180 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3481382.jpg",
+      "plu": 3481382,
+      "promo": {
+        "id": 1147596384,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 147.99,
+        "price_promo__min": 117.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15017,
+      "name": "БЕЛ.ПАСТ.МАНУФ.Зефир БЕЛЕВС.АНТОНОВ.250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3489477.jpg",
+      "plu": 3489477,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15022,
+      "name": "Мармелад ассорти, Белевский мармелад, 260 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3622388.jpg",
+      "plu": 3622388,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15033,
+      "name": "SW.PLUS+ Пир.ZEFFO Мар.с кокосом 115г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3641159.jpg",
+      "plu": 3641159,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 139.0,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15053,
+      "name": "БАРНИ Пирож.МЕДВЕЖ.биск.мол.нач.240г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3695795.jpg",
+      "plu": 3695795,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 169.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15054,
+      "name": "БАРНИ Пирож.МЕДВЕЖ.биск.шок.нач.240г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3695892.jpg",
+      "plu": 3695892,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 169.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15059,
+      "name": "Печенье «Милка» с молочной начинкой, частично покрытое молочным шоколадом 187 г x 16 КР",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3905704.jpg",
+      "plu": 3905704,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 189.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15061,
+      "name": "Изделие кондитерское пастильное. Белевский зефир Черносмородиновый 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3907943.jpg",
+      "plu": 3907943,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15099,
+      "name": "Изделия кондитерские мучные:Lambertz пряники Lebkuchen Cookie, 200 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4007696.jpg",
+      "plu": 4007696,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30772,
+      "name": "Паста Cuisine Royale De luxe, шоколадно-ореховая, 330 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3432542.jpg",
+      "plu": 3432542,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 125.0,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8782,
+      "name": "Шарлиз Драже Кешью в карамели с кунжутом, 130 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3975541.jpg",
+      "plu": 3975541,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 139.99,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8686,
+      "name": "Шоколадные конфеты с начинками типа \"Ассорти\": с помадными начинками \"Вишня в шоколаде\" , 0,150 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3606977.jpg",
+      "plu": 3606977,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 149.0,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29040,
+      "name": "Пирожное КОЛЬЦО С ТВОРОГОМ 300г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/11884.jpg",
+      "plu": 11884,
+      "promo": {
+        "id": 1147596382,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 170.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8739,
+      "name": "MILKY WAY Наб.шок.батон.подар.155г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3687488.jpg",
+      "plu": 3687488,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8763,
+      "name": "Конфеты глазированные с помадным корпусом \"Невский кондитер\" \"Темная ночь\" 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3945247.jpg",
+      "plu": 3945247,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27440,
+      "name": "Пастила Белевская с корицей 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4086821.jpg",
+      "plu": 4086821,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27441,
+      "name": "белевский Зефир с ароматом ванили гл.250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4086822.jpg",
+      "plu": 4086822,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15094,
+      "name": "Изделия кондитерские мучные: Tago пряники фигурные глазированные, 150 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4002046.jpg",
+      "plu": 4002046,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 219.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27433,
+      "name": "Хрустящее печенье с драже M&Ms с молочным шоколадом, покрытые хрустящей разноцветной глазурью 180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4049048.jpg",
+      "plu": 4049048,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27434,
+      "name": "Мягкое печенье c кусочками молочного шоколада и кокосом Bounty 180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4049049.jpg",
+      "plu": 4049049,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8660,
+      "name": "Конфеты Tofiffe, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3468950.jpg",
+      "plu": 3468950,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8707,
+      "name": "Шоколад Milka Oreo, молочный, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3643945.jpg",
+      "plu": 3643945,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 278.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8710,
+      "name": "МИЛКА Наб.под.шоколад 3х90г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3645519.jpg",
+      "plu": 3645519,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 283.0,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8715,
+      "name": "KINDER Наб.изд.MINI MIX конд.106,5г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3649079.jpg",
+      "plu": 3649079,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8735,
+      "name": "MILKA Шок.мол.с мол/кар.нач/обж.фун.300г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3681277.jpg",
+      "plu": 3681277,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 229.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8751,
+      "name": "Милка Шоколад молочный с шоколадной и молочной начинками и печеньем, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3907200.jpg",
+      "plu": 3907200,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 278.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15036,
+      "name": "Конфеты Sweet Time, мармеладные, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3652385.jpg",
+      "plu": 3652385,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 289.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27435,
+      "name": "Печенье сдобное БИСКОТТИ Неробьянко 480г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4060930.jpg",
+      "plu": 4060930,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 279.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27436,
+      "name": "Печенье сдобное БИСКОТТИ с орехом 450г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4060937.jpg",
+      "plu": 4060937,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 267.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30997,
+      "name": "Конфеты глазир мол шок глазурью с корпусом на основе мягкой карам массы и сбивной массы \"Нуга\" - \"MEGA DRIVE\" с арахисом 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4009608.jpg",
+      "plu": 4009608,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 349.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31056,
+      "name": "Конфеты шоколадные, Золотая Лилия, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/78005698.jpg",
+      "plu": 78005698,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 298.0,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 29041,
+      "name": "Пирожное наполеон, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3460123.jpg",
+      "plu": 3460123,
+      "promo": {
+        "id": 1147596383,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 226.99,
+        "price_promo__min": 214.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8585,
+      "name": "Конфеты 35, с шоколадной начинкой, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3226024.jpg",
+      "plu": 3226024,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8703,
+      "name": "КОРКУНОВ конф.АСС.мол.ц.фунд.ор.нач/др.фунд.темн.ор.нач/св.ор.нач.дробл.ваф192г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3639113.jpg",
+      "plu": 3639113,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.0,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8704,
+      "name": "Набор конфет Ассорти, Коркунов, 192 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3639115.jpg",
+      "plu": 3639115,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 279.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8755,
+      "name": "Шок. кон. \"Ассорти\" А. Коркунов из мол. и тем. шок., с тем. и свет. орех. нач., мол. нач. со вк. штр.,др. фунд. и др. вафл. 192г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3911678.jpg",
+      "plu": 3911678,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 338.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8830,
+      "name": "Кол.шок.конф.Корк.Орех.из тем/мол.шок, с кар.грец.орех, минд/фунд, тем.орех.нач.со вкус.клен.сир/апел.свет.орех.нач.со вк.меда 192г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4069805.jpg",
+      "plu": 4069805,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 419.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8860,
+      "name": "Конфеты 35, с ореховой начинкой, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/78002749.jpg",
+      "plu": 78002749,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8606,
+      "name": "САМАР.КОНД.Конф.ВОЛЖСКИЕ ЗОРИ 1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3348298.jpg",
+      "plu": 3348298,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 279.0,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8779,
+      "name": "Подар наб конд изд M&M's & Friends :шок батон SNICKERS MINIS,MILKY WAY minis,MARS minis,драже M&M's с арах,печенье TWIX,TWIX min183г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3974877.jpg",
+      "plu": 3974877,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15013,
+      "name": "Печенье сдобное 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3483849.jpg",
+      "plu": 3483849,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 279.0,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30885,
+      "name": "Конфеты Сладкое созвездие, апельсин в шоколаде, Konti, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3638690.jpg",
+      "plu": 3638690,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 298.99,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8804,
+      "name": "Конфеты глазированные с комбинированными молочно-сбивными корпусами \"Seleste\", 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4012045.jpg",
+      "plu": 4012045,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 269.99,
+        "price_promo__min": 239.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8803,
+      "name": "Конфеты глазированные шоколадной глазурью с фруктово-грильяжным корпусом \"Козиначки с солью\" 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4009609.jpg",
+      "plu": 4009609,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 367.99,
+        "price_promo__min": 259.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30979,
+      "name": "KONFESTA глазированные конфеты с кокосовой начинкой 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3962925.jpg",
+      "plu": 3962925,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 349.99,
+        "price_promo__min": 279.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8608,
+      "name": "Набор KINDER MAXI MIX конд.изд.223г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3353163.jpg",
+      "plu": 3353163,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 389.0,
+        "price_promo__min": 299.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15098,
+      "name": "Изделия кондитерские мучные:Пряничный домик с маркировкой \"TAGO\", 350г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4003309.jpg",
+      "plu": 4003309,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 449.99,
+        "price_promo__min": 319.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8626,
+      "name": "САМ.КОНД.Конф.ФИНИКИ В ШОК.с минд.1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3394294.jpg",
+      "plu": 3394294,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 399.0,
+        "price_promo__min": 329.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8726,
+      "name": "BOUNTY Конф.РАЙСКИЙ АНАНАС 1кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3670735.jpg",
+      "plu": 3670735,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 499.99,
+        "price_promo__min": 399.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8780,
+      "name": "Под наб M&M's&Friends:шок бат SNIC,SNIC MIN,MIL WAY,MIL WAYmin,MIL WAYmin Шок кокт,BOUNTY,печ TWIX,др M&M's с ар,др M&M's с мол 685г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3974878.jpg",
+      "plu": 3974878,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 599.99,
+        "price_promo__min": 449.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8525,
+      "name": "Конфеты Красная шапочка, шоколадные, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/1628.jpg",
+      "plu": 1628,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 699.99,
+        "price_promo__min": 499.99
+      },
+      "store_name": null
+    }
+  ]
+}
