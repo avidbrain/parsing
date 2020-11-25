@@ -1,0 +1,111 @@
+{
+  "parent_group_code": "519",
+  "parent_group_name": "Для выпечки и кулинарии",
+  "products": [
+    {
+      "id": 8732,
+      "name": "Мука рисовая, Сто Пудовъ, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3676528.jpg",
+      "plu": 3676528,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8808,
+      "name": "Мука из твердой пшеницы сорт высший (крупка) С.Пудовъ, бум/пак, 0,5 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4013523.jpg",
+      "plu": 4013523,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8698,
+      "name": "HAAS Лимонная кислота 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3625350.jpg",
+      "plu": 3625350,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 111.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8831,
+      "name": "Набор для выпечки Печем дома Торт \"Шоколадное настроение\"(смесь 2х125г, глазурь 50г, крем 50 г, посыпка 10г) 360г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072822.jpg",
+      "plu": 4072822,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 135.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8832,
+      "name": "Набор для выпечки маффины \"Шоколадные сказки\" 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072865.jpg",
+      "plu": 4072865,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 135.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    }
+  ]
+}

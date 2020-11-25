@@ -1,0 +1,426 @@
+{
+  "parent_group_code": "575",
+  "parent_group_name": "Для животных",
+  "products": [
+    {
+      "id": 15050,
+      "name": "PURINA Корм FRIS.конс.д/вз.соб.г.под.85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3692140.jpg",
+      "plu": 3692140,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 13.99,
+        "price_promo__min": 11.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15051,
+      "name": "PURINA Корм FRIS.ягн.в под.д/взр.соб.85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3692244.jpg",
+      "plu": 3692244,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 13.99,
+        "price_promo__min": 11.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15052,
+      "name": "PURINA Корм FRIS.кур.в под.д/взр.соб.85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3692245.jpg",
+      "plu": 3692245,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 13.99,
+        "price_promo__min": 11.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15117,
+      "name": "Корм консервированный полнорационный Cesar для взрослых собак всех пород с говядиной и овощами в соусе Говядина с овощами, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066605.jpg",
+      "plu": 4066605,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 25.99,
+        "price_promo__min": 17.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15118,
+      "name": "Корм консервированный полнорационный Cesar для взрослых собак всех пород с ягненком и овощами в соусе Ягненок с овощами, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066607.jpg",
+      "plu": 4066607,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 25.99,
+        "price_promo__min": 17.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15095,
+      "name": "PURINA ONE® (ПУРИНА УАН) Корм консервированный полнорационный для домашних кошек, с курицей высокого качества и морковью, 75 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4002291.jpg",
+      "plu": 4002291,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 26.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15096,
+      "name": "PURINA ONE® (ПУРИНА УАН) Корм консервиров. полнорац. для стерилизованных кошек, с курицей высокого качества и зеленой фасолью, 75 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4002292.jpg",
+      "plu": 4002292,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 26.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15097,
+      "name": "PURINA ONE® (ПУРИНА УАН) Корм консервированный полнорационный для взрослых кошек, с говядиной высокого качества и морковью, 75 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4002293.jpg",
+      "plu": 4002293,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 26.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 14979,
+      "name": "GOU.GOLD Корм д/кош.паштет с кур.85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2092231.jpg",
+      "plu": 2092231,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 32.0,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 14984,
+      "name": "G.GOLD Корм д/кош.паштет с тунецом 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2154055.jpg",
+      "plu": 2154055,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 32.0,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15038,
+      "name": "PURINA Корм GOUR.GOLD неж.нач.с гов.85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3663442.jpg",
+      "plu": 3663442,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 32.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15039,
+      "name": "PURINA Корм GOUR.GOLD неж.нач.с лос.85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3663913.jpg",
+      "plu": 3663913,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 32.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15067,
+      "name": "Корм консервированный полнорационный Gourmet Gold (Гурмэ Голд) Нежные Биточки для взрослых кошек с индейкой и шпинатом, 85 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3931375.jpg",
+      "plu": 3931375,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15068,
+      "name": "Корм консервированный полнорационный Gourmet Gold (Гурмэ Голд) Нежные Биточки для взрослых кошек с ягненком и зеленой фасолью, 85 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3931376.jpg",
+      "plu": 3931376,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15081,
+      "name": "Katty Корм консервированный полнорационный для кошек с говядиной в соусе, ж/б 415 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983129.jpg",
+      "plu": 3983129,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15082,
+      "name": "Katty Корм консервированный полнорационный для кошек с кроликом в соусе, ж/б 415 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983130.jpg",
+      "plu": 3983130,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15083,
+      "name": "Katty Корм консервированный полнорационный для кошек с курицей в соусе, ж/б 415 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983131.jpg",
+      "plu": 3983131,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15084,
+      "name": "Katty Корм консервированный полнорационный для кошек с печенью в соусе, ж/б 415 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983132.jpg",
+      "plu": 3983132,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 36.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27428,
+      "name": "Корм для кошек Dreamies, утка, 60 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3652326.jpg",
+      "plu": 3652326,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 53.99,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30795,
+      "name": "Корм для кошек Purina One, индейка, 1,5 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3455947.jpg",
+      "plu": 3455947,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 469.99,
+        "price_promo__min": 399.99
+      },
+      "store_name": null
+    }
+  ]
+}

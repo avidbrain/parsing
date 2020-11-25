@@ -1,0 +1,573 @@
+{
+  "parent_group_code": "870",
+  "parent_group_name": "Снеки, орехи, чипсы",
+  "products": [
+    {
+      "id": 8652,
+      "name": "Семечки Богучарские, очищенные, 75 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3453003.jpg",
+      "plu": 3453003,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 24.95,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15064,
+      "name": "Сухие завтраки неглазированные: палочки кукурузные сладкие 140 г УХТЫШКИ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3922199.jpg",
+      "plu": 3922199,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 25.99,
+        "price_promo__min": 23.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15006,
+      "name": "Попкорн Mixbar, для печей СВЧ, соленый, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3468688.jpg",
+      "plu": 3468688,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 29.0,
+        "price_promo__min": 26.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8695,
+      "name": "Семечки подсолнечника обжаренные соленые от Атамана 100г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3613320.jpg",
+      "plu": 3613320,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30967,
+      "name": "Картофель хрустящий товарный знак \"Московский картофель\" со вкусом Сыра пармезан, 70 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3943579.jpg",
+      "plu": 3943579,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 39.99,
+        "price_promo__min": 34.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15114,
+      "name": "MIXBAR Попкорн сладкий «Карамель» 250 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4061096.jpg",
+      "plu": 4061096,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 37.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15086,
+      "name": "Картофель хрустящий \"Со вкусом сметаны и лука\" 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3986506.jpg",
+      "plu": 3986506,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 62.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15087,
+      "name": "Картофель хрустящий \"Со вкусом краба\" 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3986507.jpg",
+      "plu": 3986507,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 62.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15115,
+      "name": "TWISTER КАРТОФЕЛЬ ХРУСТЯЩИЙ «Со вкусом белых грибов в сливочном соусе» 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4061907.jpg",
+      "plu": 4061907,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 64.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15116,
+      "name": "TWISTER КАРТОФЕЛЬ ХРУСТЯЩИЙ «Со вкусом колбасок гриль с горчицей» 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4062940.jpg",
+      "plu": 4062940,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 64.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27438,
+      "name": "TWISTER КАРТОФЕЛЬ ХРУСТЯЩИЙ «Со вкусом паприки» 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4086621.jpg",
+      "plu": 4086621,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 66.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27439,
+      "name": "TWISTER КАРТОФЕЛЬ ХРУСТЯЩИЙ «Со вкусом холодца с хреном» 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4086622.jpg",
+      "plu": 4086622,
+      "promo": {
+        "id": 1143198357,
+        "date_begin": "2020-11-08",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 66.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 14981,
+      "name": "ОГО Завтраки МЮСЛИ зап.сух.с банан.350г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2137586.jpg",
+      "plu": 2137586,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 64.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31041,
+      "name": "Картофельные чипсы Lay's Stax со вкусом Нежная Сметана и лук 140г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4069903.jpg",
+      "plu": 4069903,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 157.99,
+        "price_promo__min": 69.9
+      },
+      "store_name": null
+    },
+    {
+      "id": 31044,
+      "name": "Картофельные чипсы Lay's Stax со вкусом Зеленый лук 140г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4069908.jpg",
+      "plu": 4069908,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 157.99,
+        "price_promo__min": 69.9
+      },
+      "store_name": null
+    },
+    {
+      "id": 15120,
+      "name": "NESQUIK Алфавит. Готовый шоколадный завтрак, обогащенный витаминами и минеральными веществами,250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072647.jpg",
+      "plu": 4072647,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30991,
+      "name": "Krosby UNICORN Rings Завтраки сухие экстузионные готовые, обогащенные витаминами и мин. веществами, глаз. \"колечки\", 250 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4007613.jpg",
+      "plu": 4007613,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30743,
+      "name": "Семечки От Мартина, Отборные, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3403508.jpg",
+      "plu": 3403508,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 79.95,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15011,
+      "name": "CINI MINIS Безбашенные квадры Готовый завтрак с корицей 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3477236.jpg",
+      "plu": 3477236,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 119.0,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15046,
+      "name": "LAYS Чипсы нат.карт.рифл.вк.ПАПРИКА 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3688435.jpg",
+      "plu": 3688435,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 93.19,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8680,
+      "name": "Семечки тыквы, соленый, От Мартина, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3503953.jpg",
+      "plu": 3503953,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 125.0,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 14974,
+      "name": "NEST.Хлопья GOLD кукур.мед/арахис300г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/25813.jpg",
+      "plu": 25813,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 102.9,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8781,
+      "name": "Фрукты приготовленные (подсушенные) методом осмотического обезвоживания с содержание сахара: имбирь \"АРКАДА\" цукаты, 120 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3975197.jpg",
+      "plu": 3975197,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 123.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15089,
+      "name": "Рисовые чипсы Pringles \"Asian Collection\" со вкусом \"Соуса барбекю терияки по-японски\", 160 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3994660.jpg",
+      "plu": 3994660,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 15090,
+      "name": "Рисовые чипсы Pringles \"Asian Collection\" со вкусом курицы с индийскими специями \"Тикка Масала\", 160 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3994662.jpg",
+      "plu": 3994662,
+      "promo": {
+        "id": 1142122848,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30769,
+      "name": "СЕМУШКА Смесь жареных орехов/изюма 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3428415.jpg",
+      "plu": 3428415,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 238.99,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30770,
+      "name": "СЕМУШКА Кешью жареный 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3428417.jpg",
+      "plu": 3428417,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 329.99,
+        "price_promo__min": 239.99
+      },
+      "store_name": null
+    }
+  ]
+}

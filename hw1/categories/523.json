@@ -1,0 +1,615 @@
+{
+  "parent_group_code": "523",
+  "parent_group_name": "Для детей",
+  "products": [
+    {
+      "id": 17779,
+      "name": "М/М Биотвор.с перс.дет.обог.4,2% 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3697379.jpg",
+      "plu": 3697379,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 22.99,
+        "price_promo__min": 18.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17780,
+      "name": "М/М Биотвор.с клуб.дет.обог.4,2% 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3697380.jpg",
+      "plu": 3697380,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 22.99,
+        "price_promo__min": 18.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17812,
+      "name": "БЗМЖ биотворог д/питания детей дошк и шк возраста, обогащенный пробиот микроорг Howaru с малиной мдж 4,2% 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4007833.jpg",
+      "plu": 4007833,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 23.99,
+        "price_promo__min": 18.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17776,
+      "name": "М/М Коктейль мол.у/паст.шоколад.2,3%200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3695118.jpg",
+      "plu": 3695118,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17777,
+      "name": "М/М Коктейль мол.у/паст.вк.кар.2,3%200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3695119.jpg",
+      "plu": 3695119,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17833,
+      "name": "БЗМЖ Коктейль молочный ул/паст.дет.со вкусом клубники и банана 2.3% 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4046388.jpg",
+      "plu": 4046388,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 28466,
+      "name": "БЗМЖ Творог с бананом и яблоком \"nature\" 3,5% для детей 95г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4087611.jpg",
+      "plu": 4087611,
+      "promo": {
+        "id": 1144334184,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 33.05,
+        "price_promo__min": 28.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17821,
+      "name": "БЗМЖ Коктейль молочный у/паст, для питания детей дошкольного и школьного возраста, со вкусом ванильного мороженого, МДЖ 2,0% 210г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4022956.jpg",
+      "plu": 4022956,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 38.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17822,
+      "name": "БЗМЖ Коктейль молочный ультрапастеризованный, для питания детей дошкольного и школьного возраста, со вкусом клубники, МДЖ 2,0%, 210г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4022957.jpg",
+      "plu": 4022957,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 38.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17823,
+      "name": "БЗМЖ Коктейль молочный у/паст., для питания детей дошкольного и школьного возраста, со вкусом карамельной ириски, МДЖ 2,0% 210г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4022976.jpg",
+      "plu": 4022976,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 38.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17824,
+      "name": "БЗМЖ Коктейль молочный у/паст., для питания детей дошкольного и школьного возраста, шоколадный, со вкусом банана, МДЖ 2,0% 210г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4022977.jpg",
+      "plu": 4022977,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 38.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 973,
+      "name": "ДП Пюре фр Ябл-Клубн-Малина 90г PouchPack",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3638366.jpg",
+      "plu": 3638366,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 37.9,
+        "price_promo__min": 34.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30835,
+      "name": "ФРУТОН.Пюре из говядины с овощами 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3496423.jpg",
+      "plu": 3496423,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 46.9,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30839,
+      "name": "ФРУТОН.Пюре из мяса индейки с овощ.100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3501014.jpg",
+      "plu": 3501014,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 46.9,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30920,
+      "name": "ФРУТОН.Пюре из гов.с греч/мор.дет8+ 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3676773.jpg",
+      "plu": 3676773,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 45.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 896,
+      "name": "ФР-Н.Морс из клюк/черн/вишн.д/д пит.0,5л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3416973.jpg",
+      "plu": 3416973,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 46.9,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 960,
+      "name": "ФрутоНяня 0,5л Нектар яблочно-вишневый осветленный",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3626873.jpg",
+      "plu": 3626873,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 46.9,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 965,
+      "name": "ФРУТОН.Сок груш.осв.с3л 500мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3634202.jpg",
+      "plu": 3634202,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 906,
+      "name": "Мясное пюре Агуша, цыпленок-говядина, 7,7%, 80 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3422803.jpg",
+      "plu": 3422803,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 45.9,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30921,
+      "name": "Пюре Фруто Няня, кролик с рисом, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3676774.jpg",
+      "plu": 3676774,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 45.99,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1018,
+      "name": "Консервы Тема, цыпленок, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3685340.jpg",
+      "plu": 3685340,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 51.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30998,
+      "name": "ФрутоНяня 100г. Пюре из хека с картофелем и зеленью для питания детей раннего возраста \"Хек с овощным рагу\"",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4009766.jpg",
+      "plu": 4009766,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17749,
+      "name": "АГУША Молоко ул/паст.д/д от 3л 3,2%925мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3507208.jpg",
+      "plu": 3507208,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 73.05,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 824,
+      "name": "Крем Johnsons Baby, увлажнение, 100 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2159633.jpg",
+      "plu": 2159633,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 141.0,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 748,
+      "name": "JOHNSONS BABY Масло детское 200мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/1933.jpg",
+      "plu": 1933,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 189.99,
+        "price_promo__min": 134.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1082,
+      "name": "HUGGIES (ХАГГИС) Трусики-подгузники мальчикам и девочкам р5,13-17кг, 26шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983613.jpg",
+      "plu": 3983613,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 739.99,
+        "price_promo__min": 449.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 1083,
+      "name": "HUGGIES (ХАГГИС) Трусики-подгузники мальчикам и девочкам р4,9-14кг, 30шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3983632.jpg",
+      "plu": 3983632,
+      "promo": {
+        "id": 1142091316,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 739.99,
+        "price_promo__min": 449.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33625,
+      "name": "PAMPERS Подг-тр.PREM.CARE P.9-15 р4 38шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3680541.jpg",
+      "plu": 3680541,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 1099.0,
+        "price_promo__min": 719.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 33626,
+      "name": "PAMPERS Подг-тр.PREM.CARE P.12-17р5 34шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3680543.jpg",
+      "plu": 3680543,
+      "promo": {
+        "id": 1151193156,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 1099.0,
+        "price_promo__min": 719.99
+      },
+      "store_name": null
+    }
+  ]
+}

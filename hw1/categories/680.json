@@ -1,0 +1,426 @@
+{
+  "parent_group_code": "680",
+  "parent_group_name": "Макароны и крупы",
+  "products": [
+    {
+      "id": 8840,
+      "name": "Изделия макаронные группа А, высший сорт, яичные : вермишель для супчика 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4075778.jpg",
+      "plu": 4075778,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8841,
+      "name": "Изделия макаронные группа А, высший сорт, яичные: звездочки для супчика 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4075782.jpg",
+      "plu": 4075782,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 29.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8550,
+      "name": "Макароны Baisad, пружинка, 450 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/94424.jpg",
+      "plu": 94424,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 39.95,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30992,
+      "name": "Изделия макаронные группы А высшего сорта Спагетти, 500 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4008044.jpg",
+      "plu": 4008044,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 34.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30993,
+      "name": "Макаронные изделия группы А высшего сорта. Улитки 450 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4008045.jpg",
+      "plu": 4008045,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 34.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30994,
+      "name": "Макаронные изделия группы А высшего сорта. Витой рожок, 450 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4008046.jpg",
+      "plu": 4008046,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 34.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30995,
+      "name": "Макаронные изделия группы А высшего сорта. Ракушки 450 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4008047.jpg",
+      "plu": 4008047,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 34.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8812,
+      "name": "Хлопья овсяные Клинские \"Геркулес\" 500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4027131.jpg",
+      "plu": 4027131,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 64.99,
+        "price_promo__min": 46.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8834,
+      "name": "Изделия макаронные из твердых сортов пшеницы гр.А в/с Паста Фарфаллине 5х80 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072891.jpg",
+      "plu": 4072891,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8835,
+      "name": "Изделия макаронные из твердых сортов пшеницы гр.А в/с Паста Фьорелини 5х80 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4072894.jpg",
+      "plu": 4072894,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 32475,
+      "name": "МИСТР.Пшено ЗОЛОТОЕ 5х80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3674169.jpg",
+      "plu": 3674169,
+      "promo": {
+        "id": 1148601903,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 83.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8658,
+      "name": "PROSTO Рис и греча 500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3463598.jpg",
+      "plu": 3463598,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 64.95,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8813,
+      "name": "Набор для приготовления \"Паста \"Портобелло\" в грибном соусе\" \"Увелка\" 0,34 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4027518.jpg",
+      "plu": 4027518,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 109.99,
+        "price_promo__min": 66.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8793,
+      "name": "Крупа рисовая шлифованная, обработанная маслом, первый сорт: Рис для плова под Т.З. \"Global Village\" 800г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3992161.jpg",
+      "plu": 3992161,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30780,
+      "name": "LA MOLISANA Изд.макар.бантики 450г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3438663.jpg",
+      "plu": 3438663,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30781,
+      "name": "LA MOLISANA Изделия макар.облачка 450г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3438666.jpg",
+      "plu": 3438666,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30782,
+      "name": "LA MOLISANA Изд.макар.пружинки 450г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3438670.jpg",
+      "plu": 3438670,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8842,
+      "name": "Макаронные изделия Farfalle n.30/ Фарфалле №30 из твердых сортов пшеницы 500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4077766.jpg",
+      "plu": 4077766,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8843,
+      "name": "Макаронные изделия Fusilli n.31/ Фузилли №31 из твердых сортов пшеницы 500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4077767.jpg",
+      "plu": 4077767,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8844,
+      "name": "Макаронные изделия Spaghetti n.3/ Спагетти №3 из твердых сортов пшеницы 500г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4077771.jpg",
+      "plu": 4077771,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 129.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    }
+  ]
+}

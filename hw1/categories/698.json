@@ -1,0 +1,699 @@
+{
+  "parent_group_code": "698",
+  "parent_group_name": "Молочные продукты и яйца",
+  "products": [
+    {
+      "id": 17774,
+      "name": "Б.Ю.АЛЕКС.Дес.M.BIS.гл.тв.ван/бис.20%40г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689778.jpg",
+      "plu": 3689778,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17797,
+      "name": "Маргарин для выпечки Пышка, мдж. 72%, 250гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3977160.jpg",
+      "plu": 3977160,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17677,
+      "name": "PARMAL.Кокт.КАПУЧЧИНО 0.5л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/25371.jpg",
+      "plu": 25371,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 52.99,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17678,
+      "name": "PARMAL.Кокт.ЧОКОЛАТТЕ 0.5л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/25373.jpg",
+      "plu": 25373,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 52.99,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17731,
+      "name": "ВЕЛЛЕ Продукт ОВСЯНКА ч/слив ферм.180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3427232.jpg",
+      "plu": 3427232,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17757,
+      "name": "Продукт овсяный ферментированный \"Велле\" \"Курага\" \"Овсянка\", 180 грамм",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3631318.jpg",
+      "plu": 3631318,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17771,
+      "name": "Шоколад Milka, персик, молочный шоколад, 32 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3683712.jpg",
+      "plu": 3683712,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 45.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17751,
+      "name": "ПРОСТОКВ.Молоко топленое 3,2% 930г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3605407.jpg",
+      "plu": 3605407,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 66.75,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17775,
+      "name": "ЭКОМИЛК Масло слив.шок.62% 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3694936.jpg",
+      "plu": 3694936,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30864,
+      "name": "БЗМЖ САРАФАН.Молоко отб.паст.дет.3,4-4% 930мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3613025.jpg",
+      "plu": 3613025,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 59.0,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17792,
+      "name": "Напиток сывороточный-молочный стерилиз.,обезжир,с яблочным соком, обогащенный витаминами,черника-земляника Мажитель 950гр(856 мл) 0%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3933626.jpg",
+      "plu": 3933626,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 93.49,
+        "price_promo__min": 78.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30809,
+      "name": "Молоко Домик в деревне, отборное, пастеризованное, 3,7%, 1400 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3467788.jpg",
+      "plu": 3467788,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 89.95,
+        "price_promo__min": 84.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17841,
+      "name": "БЗМЖ Сливки пит.Безлактозные ультрапаст.11% 500г Parmalat Comfort",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4063899.jpg",
+      "plu": 4063899,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 109.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30969,
+      "name": "Масло сливочное Традиционное с массовой долей жира 82,5 % 175 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3948153.jpg",
+      "plu": 3948153,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30856,
+      "name": "Сыр Тильзитер Премиум, Вкуснотеево, 45%, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3605249.jpg",
+      "plu": 3605249,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 139.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17765,
+      "name": "PRETTO Сыр МОЦАРЕЛЛА д/бутерброд.45%200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3669895.jpg",
+      "plu": 3669895,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30790,
+      "name": "VILLAEUR.Сыр МААСДАМ нар.45% 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3448799.jpg",
+      "plu": 3448799,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 129.0,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30900,
+      "name": "Сыр Чеддер, La Paulina, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3658573.jpg",
+      "plu": 3658573,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 175.0,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30952,
+      "name": "Сыр полутвердый \"Чеддер\" фасованный 120г. м.д.ж. в сухом веществе 48%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3914313.jpg",
+      "plu": 3914313,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 147.99,
+        "price_promo__min": 109.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17793,
+      "name": "СЫР ПЛАВЛЕНЫЙ «CRÈME DE BRIE» мдж 50% 125г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3943414.jpg",
+      "plu": 3943414,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 134.99,
+        "price_promo__min": 117.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31035,
+      "name": "БЗМЖ Сыр \"Топленое молочко\" 45% ТМ Радость вкуса (ламинат цв./узк., фас. 200г брусок, 10шт/к)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4062968.jpg",
+      "plu": 4062968,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 156.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30715,
+      "name": "Яйца куриные Лето, С1, 20 шт., 1 уп.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3341462.jpg",
+      "plu": 3341462,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 135.99,
+        "price_promo__min": 124.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17730,
+      "name": "Молоко Село зеленое, 3,2%, 2 л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3425329.jpg",
+      "plu": 3425329,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 137.99,
+        "price_promo__min": 131.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30915,
+      "name": "Сыр классический, Брест Литовск, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3672506.jpg",
+      "plu": 3672506,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 134.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17699,
+      "name": "АЛЕКСЕЕВ.Молоко сгущ.цел.с/с 8,5%д/п650г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2123014.jpg",
+      "plu": 2123014,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 154.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17791,
+      "name": "Паста молочно- шоколадная\" Мягкий молочный шоколад\" с фундуком (арахисом, миндалем) , 15%, 330г, Коровка из Кореновки. БЗМЖ",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3928027.jpg",
+      "plu": 3928027,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 179.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30981,
+      "name": "БЗМЖ Сыр полутвердый \"Моцарелла Пицца\" с м. д.ж. 40%, 250г, шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3976999.jpg",
+      "plu": 3976999,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 202.99,
+        "price_promo__min": 143.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17832,
+      "name": "БЗМЖ Сыр Калачеевский 200г 45% флоупак",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4045672.jpg",
+      "plu": 4045672,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 170.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30954,
+      "name": "СЫР МЯГКИЙ С БЕЛОЙ ПЛЕСЕНЬЮ «КАМАМБЕР» PRESIDENT® 45%, 125г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3918445.jpg",
+      "plu": 3918445,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 237.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30948,
+      "name": "ВЕЛИКОСЛАВИЧ Сыр выд.рец.№5 п/тв.50%200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3695000.jpg",
+      "plu": 3695000,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 205.99,
+        "price_promo__min": 169.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17754,
+      "name": "ВКУСНОТ.Масло ТРАДИЦ.слив.82,5% 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3612680.jpg",
+      "plu": 3612680,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 299.0,
+        "price_promo__min": 286.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17786,
+      "name": "Сыр \"БРЕСТ-ЛИТОВСК классический\" массовой долей жира в сухом веществе 45% полутвердый 500г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3919797.jpg",
+      "plu": 3919797,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 399.99,
+        "price_promo__min": 309.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17816,
+      "name": "БЗМЖ Сыр твёрдый Palermo (Палермо),м.д.ж.40% фас,1, кг.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4011107.jpg",
+      "plu": 4011107,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 1259.0,
+        "price_promo__min": 969.99
+      },
+      "store_name": null
+    }
+  ]
+}

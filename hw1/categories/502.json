@@ -1,0 +1,132 @@
+{
+  "parent_group_code": "502",
+  "parent_group_name": "Диабетическое питание",
+  "products": [
+    {
+      "id": 8692,
+      "name": "Батончик SmartBar Protein, в шоколадной глазури, 40 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3609088.jpg",
+      "plu": 3609088,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 40.15,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8697,
+      "name": "Батончик SmartBar Protein, в темной глазури, 40 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3621529.jpg",
+      "plu": 3621529,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 50.99,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8543,
+      "name": "SULA Карамель МУЛЬТИВИТ.леденц.б/сах.60г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/47451.jpg",
+      "plu": 47451,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 45.95,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8651,
+      "name": "Шиповник, Бабушкин Хуторок, 75 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3452998.jpg",
+      "plu": 3452998,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.0,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8685,
+      "name": "Клетчатка\"Сибирская\" ВИТАМИНАЯ ПОЛЯНА 280 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3604387.jpg",
+      "plu": 3604387,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 139.0,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30734,
+      "name": "ХУД.ЗА НЕДЕЛЮ Стевия банка 150 таб.37,5г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3379758.jpg",
+      "plu": 3379758,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 168.0,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    }
+  ]
+}

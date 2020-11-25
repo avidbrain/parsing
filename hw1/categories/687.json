@@ -1,0 +1,573 @@
+{
+  "parent_group_code": "687",
+  "parent_group_name": "Масло, соусы, специи",
+  "products": [
+    {
+      "id": 8672,
+      "name": "Соус стебель бамбука, томатный, по-грузински, 280 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3494993.jpg",
+      "plu": 3494993,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 43.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8694,
+      "name": "KNORR НА ВТОРОЕ КАРТОШКА ПО-ДЕРЕВЕНСКИ СО СЛИВОЧНО-ЧЕСНОЧНЫМ СОУСОМ 27X28Г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3610322.jpg",
+      "plu": 3610322,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 43.9,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30964,
+      "name": "Кетчуп первой категории Махеевъ \"Чили\" пакет ДОЙ-ПАК с дозатором 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3941585.jpg",
+      "plu": 3941585,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31016,
+      "name": "Кетчуп Махеевъ \"Томатный\" Первая категория ДП 300г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4044938.jpg",
+      "plu": 4044938,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 42.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8761,
+      "name": "МАГГИ НА ВТОРОЕ. СМЕСЬ НА БУМАГЕ ДЛЯ ЖАРКИ ДЛЯ ПРИГОТОВЛЕНИЯ НЕЖНОГО ФИЛЕ ИНДЕЙКИ С ПРОВАНСКИМИ ТРАВАМИ 30,6 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3931313.jpg",
+      "plu": 3931313,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 62.99,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8810,
+      "name": "\"Астория\"™ Соус на основе растительных масел \"Соус для картофеля\", 30% 200г ДПД",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4022676.jpg",
+      "plu": 4022676,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 67.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8827,
+      "name": "\"Астория\"™ кетчуп \"Томатный пряный\" 250 гр ДПД",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066624.jpg",
+      "plu": 4066624,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 67.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8828,
+      "name": "\"Астория\"™ кетчуп \"Томатный душистый\" 250 гр ДПД",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066625.jpg",
+      "plu": 4066625,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 67.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8696,
+      "name": "Горчица Французская Global Village 260 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3621047.jpg",
+      "plu": 3621047,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 54.99,
+        "price_promo__min": 52.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8721,
+      "name": "Соус Mr.Ricco, бургер, 310 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3658935.jpg",
+      "plu": 3658935,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8665,
+      "name": "Соус Heinz, кисло-сладкий, 230 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3476280.jpg",
+      "plu": 3476280,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 64.95,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8679,
+      "name": "HEINZ Соус ТЕРИЯКИ деликат.230г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3503548.jpg",
+      "plu": 3503548,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 74.55,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8716,
+      "name": "Соус деликатесный Сладкий Чили Хайнц, 230 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3649353.jpg",
+      "plu": 3649353,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8741,
+      "name": "HEINZ Соус БРУСНИЧНЫЙ деликатесный 230г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689133.jpg",
+      "plu": 3689133,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8824,
+      "name": "Астория™ Соус на основе растительных масел \"Бургер-соус\", 30% 200г ДПД",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4055336.jpg",
+      "plu": 4055336,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8574,
+      "name": "Соус Краснодарский, Кухмастер, 690 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3047947.jpg",
+      "plu": 3047947,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 83.19,
+        "price_promo__min": 64.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8767,
+      "name": "Основа для приготовления глинтвейна на красном вине, Костровок, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3957197.jpg",
+      "plu": 3957197,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 89.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8796,
+      "name": "Соевый соус \"Чим-Чим\", 290 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3995914.jpg",
+      "plu": 3995914,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 124.99,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8522,
+      "name": "Соус Кинто, Ткемали, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/54.jpg",
+      "plu": 54,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 94.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8527,
+      "name": "Соус кинто, Кебаб, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/9238.jpg",
+      "plu": 9238,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 99.0,
+        "price_promo__min": 94.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17778,
+      "name": "МОС.ПРОВАНС.Майон.на переп.яйц.67% 600мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3695167.jpg",
+      "plu": 3695167,
+      "promo": {
+        "id": 1142237059,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-01",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 6
+      },
+      "current_prices": {
+        "price_reg__min": 109.99,
+        "price_promo__min": 95.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8773,
+      "name": "Масло \"ALMADOR\" подсолнечное с ароматом базилика 0,79л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3967439.jpg",
+      "plu": 3967439,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8774,
+      "name": "Масло \"ALMADOR\" подсолнечное с натуральным маслом чеснока 0,79л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3967449.jpg",
+      "plu": 3967449,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30618,
+      "name": "Паста томатная, Помидорка, 480 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/31623.jpg",
+      "plu": 31623,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 156.99,
+        "price_promo__min": 114.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8851,
+      "name": "Масло оливковое нераф. Extra Virgin, ТМ «Global Village», 250мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4082388.jpg",
+      "plu": 4082388,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30666,
+      "name": "Соус Barilla Pesti Genovese, 190 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/2140646.jpg",
+      "plu": 2140646,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 199.0,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8656,
+      "name": "ОЛЕЙНА Масло подсолн.раф.дез.1с 2л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3454645.jpg",
+      "plu": 3454645,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 199.0,
+        "price_promo__min": 179.99
+      },
+      "store_name": null
+    }
+  ]
+}

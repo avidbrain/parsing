@@ -1,0 +1,930 @@
+{
+  "parent_group_code": "902",
+  "parent_group_name": "Чай, кофе и какао",
+  "products": [
+    {
+      "id": 8701,
+      "name": "Чай Bernley, черный, 25х2 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3634052.jpg",
+      "plu": 3634052,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 64.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8826,
+      "name": "ЧАЙ УЛУН С АРОМАТОМ МОЛОКА \"MILKY OOLONG\" ТМ \"ASSAND\" пак.25х2г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066556.jpg",
+      "plu": 4066556,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 57.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8629,
+      "name": "Чай Майский, смородина с мятой; душистый чабрец, 25х2 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3399714.jpg",
+      "plu": 3399714,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8776,
+      "name": "Чай черный SAITO JAPANESE MORNING, 25х1,7г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3971162.jpg",
+      "plu": 3971162,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8777,
+      "name": "Чай черный SAITO MANGO&STRAWBERRY с ароматом клубники, кусочками манго персика, 25х1,5г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3971163.jpg",
+      "plu": 3971163,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8778,
+      "name": "Чай зеленый SAITO MILKY OOLONG с ароматом молока, 25х1,5г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3971173.jpg",
+      "plu": 3971173,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 114.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8811,
+      "name": "\nSaito чай чёрный в сашетах с лепестками розы и ароматом личи 35Г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4022854.jpg",
+      "plu": 4022854,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30933,
+      "name": "GREENF.Нап.чайн.СПИР.МАТЭ ар.л/гр25х1,5г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3679799.jpg",
+      "plu": 3679799,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8649,
+      "name": "RICH.Чай КОРОЛ.ЦЕЙЛОН лист.черн.90г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3440336.jpg",
+      "plu": 3440336,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 89.95,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8664,
+      "name": "RICH.Чай LORD GREY чер.с ар.берг/лим.90г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3473068.jpg",
+      "plu": 3473068,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 96.99,
+        "price_promo__min": 79.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31034,
+      "name": "АЗЕРЧАЙ Чай черный байх. с ароматом бергамота (эрл грей) Premium collection в/с 100гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4062548.jpg",
+      "plu": 4062548,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 89.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8799,
+      "name": "BROOKE BOND ЧАЙ ЧЕРНЫЙ пакетированный 100х1,6 (Нетто 160Г)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4002510.jpg",
+      "plu": 4002510,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30785,
+      "name": "Кофе Jacobs Velour, растворимый, 70 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3444962.jpg",
+      "plu": 3444962,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 144.0,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30792,
+      "name": "Чай Крепкие Традиции, черный, листовой, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3452991.jpg",
+      "plu": 3452991,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8671,
+      "name": "Кофе Nescafe Crema, растворимый, 95 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3485301.jpg",
+      "plu": 3485301,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 189.0,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8747,
+      "name": "Чай под т.з. \"Зеленая Панда\": чай ООЛОНГ. мол.байх.кит.крупнолист. \"МОЛОЧНЫЙ ТУМАН\" 100г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3906534.jpg",
+      "plu": 3906534,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 169.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8814,
+      "name": "NESCAFE СLASSIC НАТУРАЛЬНЫЙ РАСТВОРИМЫЙ ПОРОШКООБРАЗНЫЙ КОФЕ С ДОБАВЛЕНИЕМ НАТУРАЛЬНОГО ЖАРЕНОГО МОЛОТОГО КОФЕ, 95г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035358.jpg",
+      "plu": 4035358,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 179.99,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8668,
+      "name": "Кофе Grand Extra, растворимый, 90 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3481996.jpg",
+      "plu": 3481996,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 199.0,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30881,
+      "name": "Чай Bernley, черный, 100х2 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3635756.jpg",
+      "plu": 3635756,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 219.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30883,
+      "name": "Кофе Jacobs Millicano, растворимый, 75 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636926.jpg",
+      "plu": 3636926,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 193.09,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30971,
+      "name": "Принцесса НУРИ Завтрак в Бенгалии (2гх100п) чай байховый пак.черн.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3950803.jpg",
+      "plu": 3950803,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8687,
+      "name": "Кофе Jacobs Monarch, Классический, молотый, 230 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3607723.jpg",
+      "plu": 3607723,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 229.0,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8688,
+      "name": "Кофе Jacobs Monarch, Классический, в зернах, 230 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3607729.jpg",
+      "plu": 3607729,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 229.0,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30936,
+      "name": "AMBAS.Кофе PLATINUM нат.жар.мол.250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3683616.jpg",
+      "plu": 3683616,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 279.99,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8753,
+      "name": "TEEKANNE Подарочный набор чая Ассорти 6х4 (6 видов чая по 4 пакетика) 42 г.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3910233.jpg",
+      "plu": 3910233,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 199.99,
+        "price_promo__min": 164.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8578,
+      "name": "Кофе Jardin Dessert Cup, зерновой, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3153783.jpg",
+      "plu": 3153783,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 259.0,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8691,
+      "name": "Бета Чай Елка с Медвежатами байховый 50 г Ж/Б шт",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3608998.jpg",
+      "plu": 3608998,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 244.0,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8616,
+      "name": "AHM.TEA Чай АНГЛИЙСКИЙ №1 бергамот 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3380948.jpg",
+      "plu": 3380948,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 265.0,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8678,
+      "name": "Чай Richard Royal Earl Grey, черный, с бергамотом, 100х2 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3499718.jpg",
+      "plu": 3499718,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 245.0,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8746,
+      "name": "BETA TEA Чай ДОМИК чер.байх.цейл.кр/л50г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3694768.jpg",
+      "plu": 3694768,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 249.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8759,
+      "name": "NESCAFE GOLD. НАТУРАЛЬНЫЙ РАСТВОРИМЫЙ СУБЛИМИРОВАННЫЙ КОФЕ С ДОБАВЛЕНИЕМ НАТУРАЛЬНОГО ЖАРЕНОГО МОЛОТОГО КОФЕ 130 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3928171.jpg",
+      "plu": 3928171,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.99,
+        "price_promo__min": 199.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8727,
+      "name": "MAITRE DT Наб.чая EXCL.COLL.д/р.зав.120г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3671645.jpg",
+      "plu": 3671645,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 279.99,
+        "price_promo__min": 219.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30730,
+      "name": "Кофе Jacobs Monarch Intense, растворимый, 150 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3372172.jpg",
+      "plu": 3372172,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 379.99,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30872,
+      "name": "Кофе Jacobs Gold, расворимый, 140 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3626060.jpg",
+      "plu": 3626060,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 377.0,
+        "price_promo__min": 229.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8541,
+      "name": "LAVAZZA Кофе QUALITA ORO зер.в/у 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/45169.jpg",
+      "plu": 45169,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 373.39,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8546,
+      "name": "LAVAZZA Кофе QUALITA ORO мол.в/у 250г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/72110.jpg",
+      "plu": 72110,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 299.0,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8702,
+      "name": "Чай Акбар Gold, черный, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636930.jpg",
+      "plu": 3636930,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 349.99,
+        "price_promo__min": 249.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8743,
+      "name": "EGOISTE Кофе VELVET нат.жар.в зерн.200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689955.jpg",
+      "plu": 3689955,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 399.99,
+        "price_promo__min": 259.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8744,
+      "name": "EGOISTE Кофе VELVET нат.жар.мол.200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689956.jpg",
+      "plu": 3689956,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 379.99,
+        "price_promo__min": 259.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30829,
+      "name": "Кофе Jacobs Monarch, растворимый, 240 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3488345.jpg",
+      "plu": 3488345,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 485.0,
+        "price_promo__min": 279.9
+      },
+      "store_name": null
+    },
+    {
+      "id": 30741,
+      "name": "ЧЕР.КАРТА Kофе GOLD раст.ст/б 190г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3396581.jpg",
+      "plu": 3396581,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 449.0,
+        "price_promo__min": 279.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8718,
+      "name": "EGOISTE Кофе NOIR 100% нат.раст.субл100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3651382.jpg",
+      "plu": 3651382,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 449.99,
+        "price_promo__min": 299.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8700,
+      "name": "Кофе Bushido Kodo Bueno, молотый в растворимом, 95 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3631185.jpg",
+      "plu": 3631185,
+      "promo": {
+        "id": 1142098225,
+        "date_begin": "2020-11-01",
+        "date_end": "2020-12-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 7
+      },
+      "current_prices": {
+        "price_reg__min": 599.99,
+        "price_promo__min": 449.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 30674,
+      "name": "Кофе Lavazza, зерновой, 1 кг",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3086387.jpg",
+      "plu": 3086387,
+      "promo": {
+        "id": 1147634813,
+        "date_begin": "2020-11-24",
+        "date_end": "2020-11-30",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 1399.0,
+        "price_promo__min": 799.99
+      },
+      "store_name": null
+    }
+  ]
+}
